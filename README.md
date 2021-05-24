@@ -21,7 +21,7 @@
   <img src=/images/hazbotlogo.png alt=logo.png>
   
   <p align="center">
-    An machine learning powered chatbot for your Discord!
+    A machine learning powered chatbot for your Discord!
     <br />
     <a href="https://github.com/vincentslee/haz-discordbot"><strong>Explore the docs »</strong></a>
     <br />
@@ -67,8 +67,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src=/images/hazbotlogo.png alt=logo.png>
-
+Hazbot is an attempt to give any Discord server a witty penpal to interact with. The name "haz" derives from mid 2000's meme culture, which the bot references quite frequently
+in my experience. I got the idea while I was removing myself from inactive Discord servers with no one to talk to, I thought that people would be more active if there was someone they could talk to 24/7.
 
 
 ### Built With
