@@ -97,7 +97,7 @@ pip install transformers
 
 1. Download files
 2. Install dependancies using pip, discord.py is straightforward but transformers may require you to install pytorch
-3. Create a bot.txt file with this format:
+3. Create a bot.txt file with this format: https://github.com/vincentslee/haz-discordbot/blob/master/images/bot.txt
    __________________
    1 | [GUILD]
    
