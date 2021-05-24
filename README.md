@@ -16,10 +16,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/vincentslee/haz-discordbot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">hazbot</h3>
+  <h3 style="font-size:60px" align="center">hazbot</h3>
 
   <p align="center">
     An machine learning powered chatbot for your Discord!
