@@ -26,7 +26,7 @@
     <a href="https://github.com/vincentslee/haz-discordbot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vincentslee/haz-discordbot/blob/master/images/chatscreenshot.pngt">View Demo</a>
+    <a href="https://github.com/vincentslee/haz-discordbot/blob/master/images/chatscreenshot.png">View Demo</a>
     ·
     <a href="https://github.com/vincentslee/haz-discordbot/issues">Report Bug</a>
     ·
