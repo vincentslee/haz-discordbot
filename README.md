@@ -67,13 +67,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/vincentslee/haz-discordbot/blob/master/images/chatscreenshot.png)
+<img src=/images/hazbotlogo.png>
 
 
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Transformers](https://huggingface.co/transformers/index.html)
 * [Discord API](https://discord.com/developers/docs/intro)
 
