@@ -100,6 +100,7 @@ pip install transformers
 3. Create a bot.txt file with this format:
    __________________
    1 | [GUILD]
+   
    2 | [TOKEN]
    __________________
    if you do not know what those are, make sure you read the Discord API docs
