@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Vincent - [vincent-lee](https://www.linkedin.com/in/vincent-lee-4aabb01b0/) - vlee116@gmail.com
+Vincent - [https://www.vincentlee.dev]
 
 Project Link: [https://github.com/vincentslee/haz-discordbot](https://github.com/vincentslee/haz-discordbot)
 
