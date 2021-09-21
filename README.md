@@ -67,8 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hazbot is an attempt to give any Discord server a witty penpal to interact with. The name "haz" derives from mid 2000's meme culture, which the bot references quite frequently
-in my experience. I got the idea while I was removing myself from inactive Discord servers with no one to talk to, I thought that people would be more active if there was someone they could talk to 24/7.
+Hazbot is an attempt to give any Discord server a witty penpal to interact with. The name "haz" derives from mid 2000's meme culture, which the bot references quite frequently. I got the idea while I was removing myself from Discord servers with inactive users. I thought that people would be more active if there was someone they could chat with 24/7.
 
 
 ### Built With
